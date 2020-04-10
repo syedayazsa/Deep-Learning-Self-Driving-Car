@@ -31,7 +31,7 @@ Matplotlib
 $ cd Self_Driving_Car
 $ python drivercode.py
 ```
-* Now open the simulation, and click on autonomous mode. The socket connection feeds in real time predictions of steering angle, throttle and speed from 3 cameras mounted on windshield of the car.
+* Now, open the simulation and click on autonomous mode. The socket connection feeds in real time predictions of steering angle, throttle and speed from 3 cameras mounted on windshield of the car.
 
 # Project Breakdown:
 <br>The entire project is split-up in nine stages demonstrated below: </br>
