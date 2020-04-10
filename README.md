@@ -21,7 +21,7 @@ Matplotlib
 ```
 
 ## Files:
-* Download the simulator for your operating system from [here: ](https://github.com/udacity/self-driving-car-sim)
+<br>* Download the simulator for your operating system from [here: ](https://github.com/udacity/self-driving-car-sim)</br>
 To run the simulation, open ```Command Prompt``` or ```terminal```.
 ```shell
 $ cd Self_Driving_Car
