@@ -38,6 +38,6 @@ $ python drivercode.py
 ![N|Solid](https://i.ibb.co/8mB14v0/Untitled-Diagram.png)
 ###### POWERED BY:
 ![N|Solid](https://blog.keras.io/img/keras-tensorflow-logo.jpg)
-> Thanks to Udacity for open-sourcing their simulator. This project couldn't be successful without it.
+> Thanks to Udacity for open-sourcing their simulator. This project wouldn't be a success without it.
 
 
