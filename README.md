@@ -35,7 +35,7 @@ $ python drivercode.py
 
 # Project Breakdown:
 <br>The entire project is split-up in nine stages demonstrated below: </br>
-![N|Solid](https://i.ibb.co/8mB14v0/Untitled-Diagram.png)
+<br>![N|Solid](https://i.ibb.co/8mB14v0/Untitled-Diagram.png)</br>
 ###### POWERED BY:
 ![N|Solid](https://blog.keras.io/img/keras-tensorflow-logo.jpg)
 
