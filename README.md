@@ -1,5 +1,7 @@
 # SELF DRIVING CAR
 
+![N|Solid](https://i.ibb.co/59fN4qm/Webp-net-resizeimage-2.png)
+
 The the goal of behavioral cloning is to collect data while exhibiting good behavior and then train a model to mimic that behavior with the collected data. This project makes use of Udacity's open source car simulator to generate image dataset by behavioral cloning. 
 <br>The trained model works very well and manages to:</br>
 - Stay on the track and keep driving at optimum speed
@@ -34,8 +36,8 @@ $ python drivercode.py
 # Project Breakdown:
 <br>The entire project is split-up in nine stages demonstrated below: </br>
 ![N|Solid](https://i.ibb.co/8mB14v0/Untitled-Diagram.png)
-> Thanks to Udacity for open-sourcing their simulator without which this project would not have been possible.
 ###### POWERED BY:
 ![N|Solid](https://blog.keras.io/img/keras-tensorflow-logo.jpg)
+> Thanks to Udacity for open-sourcing their simulator. This project couldn't be successful without it.
 
 
